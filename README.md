@@ -1,2 +1,2 @@
 # everyonesbank
-This project is the website for a fictional bank.
+Website for a fictional bank.
